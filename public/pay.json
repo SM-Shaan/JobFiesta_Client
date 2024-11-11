@@ -1,0 +1,41 @@
+[
+    { 
+        "name": "Start", 
+        "src": "/images/basic.png",
+        "monthlyPrice": 19, 
+        "yearlyPrice": 199, 
+        "description": "A common form of Lorem ipsum reads: Loren ipsum dolor sit amet, consectetur adipiscing elit.", 
+        "features": [
+            { "feature": "Access Resume Template", "selected": true },
+            { "feature": "Blog Writing", "selected": false },
+            { "feature": "Content Promotion", "selected": false },
+            { "feature": "Event Organizer", "selected": false }
+        ]
+    },
+    { 
+        "name": "Advance", 
+        "src": "/images/advance.png",
+        "monthlyPrice": 39, 
+        "yearlyPrice": 399, 
+        "description": "A common form of Lorem ipsum reads: Loren ipsum dolor sit amet, consectetur adipiscing elit.", 
+        "features": [
+            { "feature": "Content Promotion", "selected": true },
+            { "feature": "Blog Writing", "selected": true }, 
+            { "feature": "Access Resume Template", "selected": true },
+            { "feature": "Event Organizer", "selected": false }
+        ]
+    },
+    { 
+        "name": "Premium", 
+        "src": "/images/premium.png",
+        "monthlyPrice": 59, 
+        "yearlyPrice": 599, 
+        "description": "A common form of Lorem ipsum reads: Loren ipsum dolor sit amet, consectetur adipiscing elit.", 
+        "features": [
+            { "feature": "Become a Recruiter", "selected": true },
+            { "feature": "Blog Writing", "selected": true },
+            { "feature": "Content Promotion", "selected": true },
+            { "feature": "Event Organizer", "selected": true }
+        ]
+    }
+]

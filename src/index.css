@@ -1,0 +1,12 @@
+/* Tailwind Directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Slick Carousel CSS */
+@import '~slick-carousel/slick/slick.css';
+@import '~slick-carousel/slick/slick-theme.css';
+
+.diagonal-background {
+    background: linear-gradient(to bottom right, #d2e3fc 0%, #d2e3fc 50%, #c7d7f4 50%, #c7d7f4 1000%);
+  }

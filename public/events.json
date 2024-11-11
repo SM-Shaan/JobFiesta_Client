@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "Tech Conference 2024",
+        "date": "June 15, 2024",
+        "description": "A conference on the latest in tech.",
+        "type": "upcoming",
+        "image": "/images/event1.jpeg", 
+        "category": "job fair"
+    },
+    {
+        "id": 2,
+        "title": "Healthcare Symposium 2023",
+        "date": "May 20, 2023",
+        "description": "A symposium on advancements in healthcare.",
+        "type": "past",
+        "image": "/images/event2.jpeg",
+        "category": "job-related"
+    },
+    {
+        "id": 3,
+        "title": "Finance Summit 2024",
+        "date": "April 10, 2024",
+        "description": "Discussing the future of finance.",
+        "type": "current",
+        "image": "/images/event3.jpeg",
+        "category": "job fair"
+    }
+]

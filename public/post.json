@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Freshers Job Openings",
+        "image": "/images/download.jpeg",
+        "postingDate": "2024-22-04",
+        "tag": "Job Interviews",
+        "authorID":3,
+        "authorName": "Shaan",
+        "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
+    },
+    {
+        "id": 2,
+        "title": "Internship List",
+        "image": "/images/internship.jpeg",
+        "postingDate": "2024-22-04",
+        "tag": "Internship",
+        "authorID":1,
+        "authorName": "Shaan",
+        "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
+    },
+    {
+        "id": 3,
+        "title": "Job as a Junior Developer",
+        "image": "/images/images.jpeg",
+        "postingDate": "2024-22-04",
+        "tag": "Remote Jobs",
+        "authorID":2,
+        "authorName": "Shaan",
+        "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
+    },
+    {
+        "id": 4,
+        "title": "Bloomings Techs",
+        "image": "/images/techs.jpeg",
+        "postingDate": "2024-22-04",
+        "tag": "Articles", 
+        "authorID":4,
+        "authorName": "Shaan",
+        "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
+    },
+    {
+        "id": 5,
+        "title": "Bloomings Techs",
+        "image": "/images/techs.jpeg",
+        "postingDate": "2024-22-04",
+        "tag": "Articles", 
+        "authorID":4,
+        "authorName": "Shaan",
+        "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
+    },
+    {
+        "id": 6,
+        "title": "Bloomings Techs",
+        "image": "/images/techs.jpeg",
+        "postingDate": "2024-22-04",
+        "tag": "Articles", 
+        "authorID":4,
+        "authorName": "Shaan",
+        "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
+    },
+    {
+        "id": 7,
+        "title": "Bloomings Techs",
+        "image": "/images/techs.jpeg",
+        "postingDate": "2024-22-04",
+        "tag": "Articles", 
+        "authorID":4,
+        "authorName": "Shaan",
+        "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
+    }
+]
