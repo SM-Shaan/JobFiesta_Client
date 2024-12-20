@@ -45,10 +45,16 @@ A user-friendly platform connecting job seekers with potential employers. The **
    ```bash
    npm run dev
    ```
-
+## Building With:
+- **React.js** for the frontend
+- **Node.js** for the backend server
+- **MongoDB** for the database
+- **Express.js** as the backend framework
+- **Auth0** for user authentication
+- **Material-UI** for frontend UI components
+- **TailwindCSS** for css design
 
 ## Future Plan
 - **Mobile App Integration**: Develop native apps for iOS and Android for broader accessibility.
 - **Advanced Matching Algorithms**: Leverage AI to improve recommendations for both job seekers and employers.
 - **Real-Time Notifications**: Add instant email and in-app alerts for updates.
-- 
